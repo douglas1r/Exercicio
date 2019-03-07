@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="pais">中国</string>
+    <string name="prato">" 东方志"</string>
+    <string name="imgDesc">中国的形象</string>
+    <string name="comidaDesc">東方志</string>
+</resources>

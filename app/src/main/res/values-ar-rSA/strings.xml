@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="pais">المملكة العربية السعودية</string>
+    <string name="prato">الارز العربي</string>
+    <string name="imgDesc">صورة عربية</string>
+    <string name="comidaDesc">الارز العربي</string>
+</resources>

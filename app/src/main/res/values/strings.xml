@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio</string>
+    <string name="pais">Brasil</string>
+    <string name="prato">Feijoada</string>
+    <string name="imgDesc">Imagem do Brasil</string>
+    <string name="comidaDesc">Feijoada</string>
+</resources>
